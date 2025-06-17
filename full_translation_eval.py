@@ -1,6 +1,7 @@
 from translation_rewards import detect_language, compute_embedding_similarity
-from unsloth import FastModel
-import google.generativeai as genai
+from google import genai
+from google.genai import types
+from transformers import AutoModelForCausalLM, AutoTokenizer
 import tqdm
 from datasets import load_dataset
 import json
@@ -51,23 +52,20 @@ def load_translation_model(model_path):
     """
     try:
         print(f"Loading translation model from: {model_path}")
-        model, tokenizer = FastModel.from_pretrained(
-            model_name=model_path,
-            max_seq_length=512,
-            load_in_4bit=True,
-        )
+        tokenizer = AutoTokenizer.from_pretrained(model_path)
+        model = AutoModelForCausalLM.from_pretrained(model_path)
         return model, tokenizer
     except Exception as e:
         print(f"Error loading model {model_path}: {str(e)}")
         print(f"Model {model_path} is not available. Skipping.")
         return None, None
 
-def evaluate_translation_with_gemini(gemini_model, source_text, generated_translation, reference_translation):
+def evaluate_translation_with_gemini(gemini_client, source_text, generated_translation, reference_translation):
     """
     Use Gemini to evaluate translation quality with a simple True/False score.
     
     Args:
-        gemini_model: Initialized Gemini model
+        gemini_client: Initialized Gemini client
         source_text (str): Original English text
         generated_translation (str): Generated French translation
         reference_translation (str): Reference French translation
@@ -91,7 +89,12 @@ Respond with ONLY "True" or "False".
 Format: True/False"""
 
     try:
-        response = gemini_model.generate_content(evaluation_prompt)
+        response = gemini_client.models.generate_content(
+            model="gemini-2.5-flash-lite-preview-06-17",
+            config=types.GenerateContentConfig(
+                system_instruction=evaluation_prompt),
+            contents="Hello there"
+        )
         evaluation_text = response.text.strip()
         
         # Parse True/False from the response
@@ -161,9 +164,9 @@ def eval_translation_model(model_path, prompts, source_texts, reference_translat
         }
     
     # Initialize Gemini
-    genai.configure(api_key=gemini_api_key)
-    gemini_model = genai.GenerativeModel(gemini_model_name)
     
+    gemini_client = genai.Client(api_key=gemini_api_key)
+        
     n = len(prompts)
     gemini_acceptable = 0
     language_correct = 0
@@ -221,7 +224,7 @@ def eval_translation_model(model_path, prompts, source_texts, reference_translat
         
         # Gemini evaluation
         gemini_eval = evaluate_translation_with_gemini(
-            gemini_model, source_text, generated_translation, reference_text
+            gemini_client, source_text, generated_translation, reference_text
         )
         
         is_acceptable = gemini_eval['is_acceptable']
