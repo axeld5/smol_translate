@@ -8,7 +8,7 @@ import os
 
 def train_translation_rl_model(
     model_name="HuggingFaceTB/SmolLM2-360M-Instruct", 
-    max_steps=500, 
+    max_steps=3000, 
     save_path="smollm2-360m-translation-rl", 
     dataset_file="translation_rl_data.json"
 ):
@@ -57,7 +57,7 @@ def train_translation_rl_model(
     # Configure training parameters
     max_prompt_length = 256
     training_args = GRPOConfig(
-        learning_rate=3e-5,  # Slightly higher learning rate for smaller model
+        learning_rate=1e-4,  # Slightly higher learning rate for smaller model
         adam_beta1=0.9,
         adam_beta2=0.99,
         weight_decay=0.01,
@@ -65,14 +65,14 @@ def train_translation_rl_model(
         lr_scheduler_type="cosine",
         optim="adamw_torch_fused",
         logging_steps=10,
-        per_device_train_batch_size=2,  # Larger batch size for 360M model
+        per_device_train_batch_size=8,  # Larger batch size for 360M model
         gradient_accumulation_steps=2,
-        num_generations=4,
+        num_generations=8,
         max_prompt_length=max_prompt_length,
         max_completion_length=max_seq_length - max_prompt_length,
         num_train_epochs=1,
         max_steps=max_steps,
-        save_steps=100,
+        save_steps=500,
         max_grad_norm=1.0,
         report_to="none",
         output_dir="outputs",
