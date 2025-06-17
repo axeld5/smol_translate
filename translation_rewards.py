@@ -33,7 +33,7 @@ def compute_embedding_similarity(source_text, target_text):
         
         # Compute similarity
         similarity = embedding_model.similarity(source_embedding, target_embedding)
-        return float(similarity[0][0])  # Extract scalar value
+        return float(similarity[0][0]) - 0.5  # Extract scalar value
     except Exception as e:
         print(f"Error computing embedding similarity: {e}")
         return 0.0
