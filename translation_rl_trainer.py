@@ -154,7 +154,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train a translation model using GRPO")
     parser.add_argument("--model_name", type=str, default="HuggingFaceTB/SmolLM2-360M-Instruct", 
                         help="Name or path of the model to fine-tune")
-    parser.add_argument("--max_steps", type=int, default=500, help="Maximum number of training steps")
+    parser.add_argument("--max_steps", type=int, default=1000, help="Maximum number of training steps")
     parser.add_argument("--save_path", type=str, default="smollm2-360m-translation-rl", 
                         help="Path to save the fine-tuned model")
     parser.add_argument("--dataset_file", type=str, default="translation_rl_data.json",
