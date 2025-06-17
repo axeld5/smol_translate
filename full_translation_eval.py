@@ -318,7 +318,7 @@ def prepare_evaluation_data(num_samples=200):
         tuple: (prompts, source_texts, reference_translations)
     """
     print(f"Loading Tatoeba EN-FR dataset for evaluation ({num_samples} samples)...")
-    dataset = load_dataset("tatoeba", lang1="en", lang2="fr")
+    dataset = load_dataset("tatoeba", lang1="en", lang2="fr", trust_remote_code=True)
     train_data = dataset["train"]
     
     prompts = []
