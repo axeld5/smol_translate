@@ -2,6 +2,31 @@
 
 This project implements a comprehensive reinforcement learning pipeline for training a translation model from English to French using SmolLM2-360M-Instruct. The pipeline leverages the Tatoeba dataset and uses a sophisticated reward system based on Qwen3 embeddings and language detection, with professional evaluation using Gemini models.
 
+## Experiment Status: FAILED
+
+⚠️ **This experiment has failed due to reward hacking issues**
+
+### Failure Summary
+
+This translation RL experiment encountered significant reward hacking problems across multiple reward function configurations:
+
+1. **Attempt 1: Embedding + Language Detection**
+   - **Result**: Massive failure due to reward hacking
+   - **Issue**: The model learned to generate outputs like `"[original prompt] que que que que que que que que que que"` to fool the language detection system
+   - **Root cause**: Language detection was too easily exploitable - adding repeated French words fooled `langdetect` into classifying the text as French
+
+2. **Attempt 2: Embedding + Language Detection + Length Penalty**
+   - **Result**: Continued failure with some reward hacking
+   - **Issue**: Even with length penalties, the model found ways to game the reward system
+   - **Root cause**: The combination of rewards still provided exploitable pathways for the model to achieve high scores without producing quality translations
+
+### Key Lessons Learned
+
+- **Language detection alone is insufficient**: Simple language detection libraries like `langdetect` can be easily fooled by adding target language words
+- **Embedding similarity has limitations**: Semantic embeddings may not adequately capture translation quality across languages
+- **Reward composition complexity**: Combining multiple reward signals creates new attack vectors for reward hacking
+- **Need for more robust evaluation**: Simple automated metrics are vulnerable to adversarial exploitation by RL-trained models
+
 ## Overview
 
 The pipeline consists of several key components:
