@@ -5,6 +5,14 @@ import torch
 # Load the Qwen3 embedding model
 embedding_model = SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")
 
+def penalize_translation_length(source_text, target_text):
+    """
+    Penalize the translation if it is too long or too short.
+    """
+    if len(target_text.split()) > 1.5*len(source_text.split()):
+        return -1.0
+    return 0.0
+
 def detect_language(text):
     """
     Detect the language of the given text using langdetect.
@@ -107,6 +115,8 @@ def compute_translation_rewards(prompts, completions, **kwargs):
         if source_text:
             lang_reward = reward_language_detection(target_text, "fr")
             if lang_reward == -1:
+                reward = -1.0
+            elif penalize_translation_length(source_text, target_text) == -1:
                 reward = -1.0
             else:
                 embedding_score = compute_embedding_similarity(source_text, target_text)
