@@ -54,6 +54,15 @@ def load_translation_model(model_path):
         print(f"Loading translation model from: {model_path}")
         tokenizer = AutoTokenizer.from_pretrained(model_path)
         model = AutoModelForCausalLM.from_pretrained(model_path)
+        
+        # Move model to CUDA if available
+        import torch
+        if torch.cuda.is_available():
+            model = model.to("cuda")
+            print(f"Model moved to CUDA")
+        else:
+            print(f"CUDA not available, keeping model on CPU")
+        
         return model, tokenizer
     except Exception as e:
         print(f"Error loading model {model_path}: {str(e)}")
@@ -191,8 +200,12 @@ def eval_translation_model(model_path, prompts, source_texts, reference_translat
         )
         
         try:
+            # Get model device and move inputs to the same device
+            model_device = next(model.parameters()).device
+            inputs = tokenizer([text], return_tensors="pt").to(model_device)
+            
             outputs = model.generate(
-                **tokenizer([text], return_tensors="pt").to("cuda"),
+                **inputs,
                 max_new_tokens=100,
                 temperature=0.7,
                 do_sample=True,
