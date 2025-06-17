@@ -1,0 +1,2402 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You are late.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu es en retard."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You must read this book also.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu dois également lire ce livre."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Did you take him home?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "L'avez-vous emmené chez vous ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She did the right thing.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle fit ce qu'il fallait."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We're not there yet.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous n'y sommes pas encore."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'May I have your phone number, please?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Pourrais-je avoir votre numéro de téléphone, s'il vous plaît ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I bear him no malice.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je n'ai aucune malveillance à son égard."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Have you ever argued with your parents?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "T'es-tu déjà disputé avec tes parents ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Where did you get that shirt?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Où as-tu eu cette chemise ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Our ultimate goal is to establish world peace.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Notre ultime but est d'établir la paix dans le monde."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We're counting on you to wake us up in time, so don't fall asleep.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "On compte sur toi pour nous réveiller à l'heure, alors ne t'endors pas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Prices have been rising since last year.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les prix montent depuis l'année dernière."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The chair is too small.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Cette chaise est trop petite."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It's not a good idea.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ce n'est pas une bonne idée."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Can't you understand the pain of your parents?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ne pouvez-vous comprendre la douleur de vos parents ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Tom announced his resignation yesterday.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tom a annoncé sa démission hier."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I believe the choice is clear.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je crois que le choix est évident."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Do you know who wrote this book?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Sais-tu qui a écrit ce livre ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I told Mary that I loved her.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai dit à Mary que je l'aimais."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I thought maybe I could buy you a drink.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai pensé que je pourrais peut-être te payer un verre."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I never see you without thinking of my father.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je ne vous vois jamais sans penser à mon père."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'A good case can be made for the legalization of drugs.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Une bonne défense peut être faite de la légalisation de la drogue."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It's really not that heavy.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ce n'est vraiment pas si lourd."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Don't raise your voice.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "N'élevez pas la voix !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Lojban is the Salvador Dalí of languages.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Le lojban est le Salvador Dali des langues."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Speak more slowly, please.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "S'il vous plait, parlez plus lentement."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'If you trespass on his property, he'll sic his dogs on you.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Si vous faites intrusion dans sa propriété, il lâchera ses chiens sur vous."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I just wanted to tell you how pleased I am.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je voulais juste vous dire combien j'étais satisfait."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I often go downtown on Sunday.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je vais souvent en centre-ville le dimanche."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Let's forget to study and enjoy ourselves tonight.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Oublions les études et amusons-nous ce soir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We don't like these stories, probably you either.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ces histoires ne nous plaisent pas, à vous non plus, peut-être."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Let me repair it.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Laisse-moi le réparer."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It wasn't a race.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ce n'était pas une course."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I think you ought to listen.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je pense que tu devrais écouter."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Do you have any more of those?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous en reste-t-il ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Tony has a nice voice.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tony a une voix agréable."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I chose the colors.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai choisi les couleurs."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Their contract is to run out at the end of this month.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Leur contrat vient à expiration à la fin de ce mois."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Why didn't you just tell the truth?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Pourquoi n'avez-vous pas simplement dit la vérité ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He asked me to keep him company on the weekends.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il m'a demandé de lui tenir compagnie pendant les week-ends."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I blame you for this, Tom.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je te blâme pour ceci, Tom."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Mary doesn't have a pooch; she has a kitten.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Marie n'a pas de cabot; elle a un chaton."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I know that it is highly unlikely that we'll be able to sell all this stuff.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je sais qu'il est hautement improbable que nous soyons en mesure de vendre tous ces trucs."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'To hear him talk, you might take him for a girl.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "À l'entendre parler, on pourrait le prendre pour une fille."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Everyone seems to have a bone to pick with someone, but only a few people can be philosophical about it.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Chacun semble avoir un compte à régler avec quelqu'un, mais seulement quelques personnes peuvent le prendre avec philosophie."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'No matter what game he plays, he always wins.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Qu'importe le jeu auquel il joue, il gagne toujours."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He was sick, so he couldn't attend the party.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il était malade, de sorte qu'il n'a pas pu assister à la fête."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He put forward a plan for improving the rate of production.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il présenta un programme pour augmenter le taux de production."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We are going to the market.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous nous rendons au marché."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'm now busy writing a book.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je suis occupé en ce moment à écrire un livre."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'This is the safest place I know.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est l'endroit le plus sûr que je connaisse."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I thought I heard you.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je pensais que je vous avais entendu."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'How long were you in Japan?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Combien de temps as-tu été au Japon ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I just feel so lost.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je me sens tellement perdu."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The recent events have affected him deeply.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les récents événements l'ont profondément affecté."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You'll like it, believe me.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous l'aimerez, croyez-moi."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'That's all they have.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est tout ce qu'ils ont."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Learn Italian.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Apprends l'italien."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I need you here.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai besoin de vous ici."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It took me three hours to finish my homework.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ça m'a pris trois heures pour finir mes devoirs."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Is this what you want?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Est-ce là ce que tu veux ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I didn't do it for you.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je ne l'ai pas fait pour vous."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You're absolutely right.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous avez parfaitement raison."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Do you think you'd like to work for us?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Pensez-vous que vous aimeriez travailler avec nous ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You think I'm stupid, don't you?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu penses que je suis stupide, n'est-ce pas ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Please don't do this.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "S'il te plaît, ne fais pas ça."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Sound familiar?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Cela vous semble-t-il familier ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You don't have to come.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu n'es pas forcé de venir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Sorry. Traffic was heavy.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Désolé. La circulation était dense."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You were my friend.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu fus mon amie."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'There is no rose without a thorn.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il n’y a pas de roses sans épines."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I must run.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je dois courir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'll never forget the look on her face.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je n'oublierai jamais l'air qu'arborait son visage."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'll be in the truck.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je me trouverai dans le camion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'If you take this medicine, you'll feel better.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Si tu prends ce remède, tu te sentiras mieux."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Don't be so harsh on yourself.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ne soyez pas si dure avec vous-même."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I caught it.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je l'ai attrapé."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Tom seems happy.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tom a l'air heureux."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I want white pants.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je veux un pantalon blanc."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We'll decide later.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous en déciderons plus tard."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I have a new girlfriend.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai une nouvelle copine."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Switzerland needs better apples.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "La Suisse a besoin de meilleures pommes."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Are you still upset about what happened?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Êtes-vous encore contrariées à propos de ce qui a eu lieu ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I am peeling the celery and the potatoes.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je pèle le céleri et les pommes de terre."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You're very observant.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous êtes très observatrice."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Tom wants to sell everything in his garage.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tom veut vendre tout ce qu'il a dans son garage."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'm sick of your hints.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'en ai marre de tes allusions."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'That's not a good choice.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ce n'est pas un bon choix."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'm pretty sure that Tom doesn't like Mary.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je suis presque certain que Tom n'aime pas Marie."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Keep still!'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Restez tranquille !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'There's something I have to tell you.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai quelque chose à te dire."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I think you didn't watch the video to the end.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je pense que tu n'as pas regardé la vidéo jusqu'à la fin."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'In other words, I don't like to work with him.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "En d'autres mots, je n'aime pas travailler avec lui."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Instead, they prefer to stay in and watch television.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Au lieu de cela, ils préfèrent rester à l'intérieur et regarder la télévision."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'What does your son do?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Que fait ton fils ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'There's a special exhibit of Picasso's sketches.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il y a une exposition spéciale de croquis de Picasso."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'A bottle of water goes for 5 francs in Bastions Park!'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Une bouteille d'eau se vend pour 5 francs dans le Parc des Bastions !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'What are we supposed to do now?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Que sommes-nous supposés faire maintenant ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The best way to know what a country is like is to go and see it with your own eyes.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "La meilleure façon de savoir comment est un pays est d'y aller pour voir de ses propres yeux."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'There's something else in the drawer.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il y a autre chose dans le tiroir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'After the university, she was free to choose her destiny.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Après l'université, elle était libre de décider de son avenir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Mary is meticulous.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Marie est minutieuse."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I live in Moscow.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je vis à Moscou."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'English is spoken in many countries.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "On parle l'anglais dans de nombreux pays."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I don't know exactly when he will arrive.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je ne sais pas exactement quand il arrivera."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I know what it's like to be different.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je sais ce que c'est que d'être différent."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Does that make sense to you?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Cela a-t-il du sens pour toi ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'A fire broke out in the middle of the city.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Un feu se déclara au cœur de la ville."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We'd better do something about this leak.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous ferions mieux de faire quelque chose au sujet de cette fuite."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Soccer is one of my little brother's hobbies.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Le football est un des passe-temps de mon petit frère."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She baked me a cake.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle me fit un gâteau."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I know what you could've done.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je sais ce que tu aurais pu faire."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'What are you talking about!?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "De quoi parles-tu ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She's a bad influence.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle a une mauvaise influence."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Algeria is a Third World country that is sinking deeper and deeper, and is on the brink of civil war.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "L'Algérie est un pays du tiers monde qui s'enfonce de plus en plus et qui est au bord de la guerre civile."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I have made many sacrifices for my country.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai accompli de nombreux sacrifices pour mon pays."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'd like to see Mr Kosugi.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'aimerais voir M. Kosugi."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Everybody's worried.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tout le monde est inquiet."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I wonder if Tom has ever considered cycling to work.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je me demande si Tom a jamais envisagé de se rendre au travail à vélo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'There are twenty seven pupils in my class.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il y'a vingt-sept élèves dans ma classe."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'What would you like to know?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Qu'est-ce que tu voudrais connaître ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'That sick person's life is in danger.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "La vie de cette personne malade est en danger."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Whatever I do, she says I can do better.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Quoique je fasse, elle dit que je peux faire mieux."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You don't even know how.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu ne sais même pas comment."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We found Tom drunk sleeping on a park bench.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous avons trouvé Tom saoul, dormant sur un banc du parc."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'According to the radio, it will rain tomorrow.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Selon la radio, il va pleuvoir demain."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'My little brother always sleeps with his teddy bear.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Mon petit frère dort toujours avec son ours en peluche."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'My dad works all day.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Mon papa travaille toute la journée."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'His grandmother can't walk, can she?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Sa grand-mère ne peut pas marcher, n'est-ce pas ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Their feet are dirty.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elles ont les pieds sales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'In this activity one immediately sees the result.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Dans ce métier on voit tout de suite les résultats."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I need to lose five pounds.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il faut que je perde cinq livres."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He is an ideal husband for me.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est un mari idéal pour moi."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He is not a poet but a novelist.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il n'est pas poète mais romancier."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'They admitted they were cold.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ils ont admis qu'ils avaient froid."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'My country is far away from Japan.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Mon pays est éloigné du Japon."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'They are now either in Kyoto or in Osaka.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ils sont à présent soit à Kyoto, soit à Osaka."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She wrote about it in her diary.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle y a fait référence dans son journal."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The best things in life aren't things.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les meilleures choses dans la vie ne sont pas des choses."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The French chose the South for this summer.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les Français ont choisi le Sud pour cet été."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You just made that up, didn't you?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu viens d'inventer ça, n'est-ce pas ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Do you know how many there are?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Savez-vous combien il y en a ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'No, Dad!'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Non, papa !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'This is my mom.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est ma maman."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It's completely normal.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est parfaitement normal."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Everyone's in the buff, in there.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tout le monde est à poil, là-dedans."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Do you already have a plan?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "As-tu déjà un plan?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Don't worry. Everything is going well.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ne t'inquiète pas trop. Tout va bien."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We wasted a lot of time looking for Tom.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous avons perdu beaucoup de temps à chercher Tom."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He told me that the book was interesting.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il m'a dit que le livre était intéressant."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Chinese officials say economic growth has dropped to a three-year low because of the world economy.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les officiels chinois disent que la croissance économique est tombée à son plus bas niveau depuis trois ans en raison de l'économie mondiale."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Be bold!'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Soyez hardies !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Is she all right?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Se porte-t-elle bien ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I love the way you kiss.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'adore la manière dont vous embrassez."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Spring is the best season to visit Kyoto.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Le printemps est la meilleure saison pour visiter Kyoto."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'He devoted a lot of time to study.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Il a consacré beaucoup de temps à l'étude."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'War is a terrible thing.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "La guerre est une chose horrible."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Don't lean on my desk.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Ne vous adossez pas à mon bureau."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Please show me what to do next.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Montre-moi la prochaine chose à faire."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Is there a hotel around here?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Y a-t-il un hôtel près d'ici ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Young people tend to take things too far.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les jeunes gens ont tendance à aller trop loin."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You are supposed to introduce yourselves in turn.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous voudrez bien vous présenter chacun à votre tour."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We were forced to work hard.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous étions forcés à travailler dur."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I don't think I can eat this.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je ne pense pas que je parvienne à manger ça."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I'll check your vision.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je vais contrôler votre vue."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I can't recall all their names.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je ne peux pas me souvenir de tous leurs noms."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I thought you wanted this back.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai pensé que tu voudrais que je te rende ceci."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Sami will be gone soon.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Sami partira dans peu de temps."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Have you got jeans in my size?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Avez-vous des jeans de ma taille ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She gave me the fish eye.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle me lança un œil noir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I love onions!'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'adore les oignons !"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'They can't do that.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elles n'arrivent pas à faire ça."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'She's bleeding.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Elle saigne."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You'd be the one to know.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu serais celle qui est au courant."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Which floor do you live on?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "À quel étage habites-tu ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The child was afraid of being left alone in the dark.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "L'enfant avait peur d'être laissé seul dans le noir."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'My house is close to a bus stop.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Mon domicile est proche d'un arrêt de bus."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We have a dishwasher.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous avons un lave-vaisselle."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'If you're tired, go to bed.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Si vous êtes fatigué, allez vous cacher."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I've brought some popcorn and soda for us to eat and drink while playing video games.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai apporté du pop-corn et des boissons gazeuses pour qu'on en mange tout en jouant aux jeux-vidéos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'We waited outside.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Nous avons attendu dehors."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You have come to the right place.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Vous êtes à la bonne adresse."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Sandra has grown up to be a beautiful woman.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Sandra est devenue une jolie femme."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I look on you as my best friend.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je te considère comme ma meilleure amie."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'It is the last straw that breaks the camel's back.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'est la goutte d'eau qui fait déborder le vase."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I can do it now.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je peux le faire maintenant."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I pretended that it didn't bother me.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai fait comme si ça ne me dérangeait pas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Yes. You're absolutely right.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Oui. Tu as parfaitement raison."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I took my shoes off and put them under the bed.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "J'ai enlevé mes chaussures et les ai mises sous le lit."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Have you ever been mugged?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Avez-vous jamais été agressée ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Had I taken that plane, I would be dead by now.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Si j'avais pris cet avion, je serais mort à l'heure qu'il est."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Did you see the news?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Avez-vous vu les nouvelles ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'The women of France are beautiful.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Les femmes françaises sont magnifiques."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Aren't you too young to smoke?'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "N'êtes-vous pas trop jeune pour fumer ?"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'You are seriously ill.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Tu es un grand malade."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'I thought you were finished.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Je pensais que vous aviez terminé."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'That was the hard part.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "C'était la partie difficile."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'My tight wad husband took me to McDonald's for our anniversary.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Mon fauché de mari m'a emmenée au Macdo pour notre anniversaire."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'Part of his story is true.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Une partie de son histoire est vraie."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Translate the following sentence from English to French: 'If a = b and b = c, then a = c.'\nOutput the translation and only the translation."
+      },
+      {
+        "role": "assistant",
+        "content": "Si a = b et b = c, alors a = c."
+      }
+    ]
+  }
+]
