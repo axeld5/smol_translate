@@ -111,7 +111,7 @@ def compute_translation_rewards(prompts, completions, **kwargs):
             else:
                 embedding_score = compute_embedding_similarity(source_text, target_text)
                 # Only give positive reward if embedding score is above threshold
-                reward = embedding_score if embedding_score > 0.5 else 0.0
+                reward = embedding_score
         else:
             reward = -1.0
         
